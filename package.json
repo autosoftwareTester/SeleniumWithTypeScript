@@ -1,0 +1,24 @@
+{
+  "name": "selenium-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "king",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "assert": "2.1.0",
+    "selenium-webdriver": "^4.41.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "@types/selenium-webdriver": "^4.35.5",
+    "mocha": "11.7.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
