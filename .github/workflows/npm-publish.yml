@@ -35,7 +35,7 @@ jobs:
 
       - name: Run tests
         run: |
-          npx ts-node ./test/**/*.ts
+          npx ts-node .\test\**\*.ts
         env:
           CI: true
 
