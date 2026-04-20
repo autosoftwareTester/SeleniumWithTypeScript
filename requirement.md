@@ -9,6 +9,7 @@ Initialize TypeScript: Use npx tsc --init to create a tsconfig.json file.
 Run a test
 ==============
 npx ts-node .\test\upload-file.ts
+npx ts-node .\test\com.company.qa\exercises\webTable.ts
 
 Assertions
 ===========
